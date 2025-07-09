@@ -12,4 +12,3 @@ Analisis de ciclo de vida en python
 
 De igual forma haremos algunos analisis a bases de datos para comprender mejor el comporatemiento de estos en sus impactos 
 
-por el momento eso es todo
