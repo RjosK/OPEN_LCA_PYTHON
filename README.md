@@ -14,5 +14,6 @@ De igual forma haremos algunos analisis a bases de datos para comprender mejor e
 
 
 Notas:
+
     Debido a que no se pueden abrir los cuadernos de jupyer aquí les subiré un archibo python en donde podran leer el codigo. 
-    
+
