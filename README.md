@@ -12,8 +12,3 @@ Analisis de ciclo de vida en python
 
 De igual forma haremos algunos analisis a bases de datos para comprender mejor el comporatemiento de estos en sus impactos 
 
-
-Notas:
-
-    Debido a que no se pueden abrir los cuadernos de jupyer aquí les subiré un archibo python en donde podran leer el codigo. 
-
